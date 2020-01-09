@@ -1,2 +1,2 @@
 # Flash-flash-cards
-I simple to use flashcard app.
+A simple to use flashcard app.
